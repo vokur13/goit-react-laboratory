@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-goit-laboratory/static/css/main.7acaea2f.css",
+    "main.js": "/react-goit-laboratory/static/js/main.9b371e83.js",
+    "index.html": "/react-goit-laboratory/index.html",
+    "main.7acaea2f.css.map": "/react-goit-laboratory/static/css/main.7acaea2f.css.map",
+    "main.9b371e83.js.map": "/react-goit-laboratory/static/js/main.9b371e83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.9b371e83.js"
+  ]
+}
